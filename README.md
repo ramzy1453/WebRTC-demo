@@ -31,4 +31,3 @@ This project demonstrates how to build a peer-to-peer video chat application usi
 4. **Data Messaging**: Text messages are sent and received using WebRTC's `RTCDataChannel`.
 
 ---
-"# WebRTC-demo" 
